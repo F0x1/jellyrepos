@@ -1,0 +1,21 @@
+{
+    "category": "Metadata",
+    "changelog": "- 10.9 (#79) @crobibero\n\n### Bug Fixes ###\n- Only add primary versions to collections (#69) @lordwelch\n\n### Code or Repo Maintenance ###\n- Update link to Jellyfin website (#77) @methbkts\n\n### CI & build changes ###\n- fix: meta ci workflows (#70) @h1dden-da3m0n",
+    "description": "Automatically create movie box sets based on TMDb collections",
+    "guid": "bc4aad2e-d3d0-4725-a5e2-fd07949e5b42",
+    "name": "TMDb Box Sets",
+    "overview": "Automatically create movie box sets based on TMDb collections",
+    "owner": "jellyfin",
+    "targetAbi": "10.9.0.0",
+    "timestamp": "2024-05-11T19:34:33Z",
+    "version": "11.0.0.0"
+	"versions": [
+            {
+                "version": "11.0.0.0",
+                "changelog": "",
+                "targetAbi": "11.0.0.0",
+                "sourceUrl": "https://repo.jellyfin.org/files/plugin/tmdb-box-sets/tmdb-box-sets_11.0.0.0.zip",
+                "checksum": "fa6d4b4d90375535502987bd326bedc5",
+                "timestamp": "2024-05-11T19:35:05Z"
+            },
+}
